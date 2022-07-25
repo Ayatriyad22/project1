@@ -1,4 +1,4 @@
 # project1
 Html
-##the frist task1
+##the first task1
 ###using html
